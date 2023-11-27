@@ -17,7 +17,7 @@
         <div class="container">
             <div id="mainListDiv" class="main_list">
                 <ul class="navlinks">
-                    <li><a href="#">Booklet</a></li>
+                    <li><a href="booklet.php">Booklet</a></li>
                     <li><a href="#">Crew</a></li>
                     <li><a href="#">Shoot With Poggy</a></li>
                     <li><a href="#">How to pose</a></li>
